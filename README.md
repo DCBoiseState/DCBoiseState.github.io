@@ -1,5 +1,5 @@
 # DCBoiseState.github.io
-Welcome to my very own GitHub page.
+Welcome to my GitHub page.
 🔰
 
 
